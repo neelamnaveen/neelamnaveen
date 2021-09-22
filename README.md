@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Neelam Naveen
+- 👋 Hi, I’m @Naveen Neelam
 - 👀 I’m interested in Solving user problems with software.
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on software developement
+- 🌱 I’m working in Wipro Technologies as Blockchain software developer
+- 💞️ I’m looking forward to advance my career in software web development
 - 📫 Can reach me neelamnaveencs@outlook.com 9966434994
 
 <!---
