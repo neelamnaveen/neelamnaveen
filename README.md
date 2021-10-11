@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Naveen Neelam
-- 👀 I’m interested in Solving user problems with software.
+- 👀 I’m interested in solving the user problems with software.
 - 🌱 I’m working in Wipro Technologies as Blockchain software developer
 - 💞️ I’m looking forward to advance my career in software web development
-- 📫 Can reach me neelamnaveencs@outlook.com 9966434994
+- 📫 Can reach me naveenneelamss@gmail.com 9966434994
 
 <!---
 neelamnaveen/neelamnaveen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
